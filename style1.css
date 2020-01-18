@@ -1,8 +1,7 @@
 
 #parent {
-    background-color: pink;
-      height:200px;
-      width: 50%;
+    background-color:white;
+      height:600px;
       display: flex;
 }
 
@@ -11,6 +10,7 @@
       height:300px;
       width: 50%;
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      border: 2px solid blanchedalmond
      
   }
     #child2 {
@@ -18,13 +18,13 @@
     height:300px;
     width: 50%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+    border: 2px solid blanchedalmond
 }
     #child3 {
     background-color: grey;
     height:300px;
     width: 50%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    border: 2px solid blanchedalmond
 }
 
