@@ -1,0 +1,37 @@
+h1{
+    color: rgb(245, 179, 238);
+}
+
+h3{
+    text-decoration: underline;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Courier New';
+    background-color: rgb(245, 179, 238);
+    border: 2px solid navy;
+    border radius: 5px;
+    width: 500px;
+
+}
+
+body{
+    font-family: 'courier new'
+}
+
+.section-header {
+    background-color: pink;
+    border: 2px solid navy;
+    border radius: 5px;
+    width: 500px;
+}
+
+#profile-picture {
+    border: 2px solid navy;
+}
+
+.section {
+    background-color: blanchedalmond;
+    margin-bottom: 50px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
